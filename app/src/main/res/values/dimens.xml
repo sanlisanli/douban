@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="include_toolbar_height">50dp</dimen>
+    <dimen name="theater_margin_start">20dp</dimen>
+    <dimen name="theater_text_size">14sp</dimen>
+</resources>
